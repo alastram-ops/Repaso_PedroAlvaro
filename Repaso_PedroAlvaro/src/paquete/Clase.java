@@ -4,7 +4,7 @@ public class Clase {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Prueba Merge");
+		System.out.println("Prueba Merge 2");
 
 	}
 
